@@ -2,7 +2,7 @@ import React from "react";
 import { Text, StyleSheet,View, Button, TouchableOpacity} from "react-native";
 
 const HomeScreen = ({navigation}) => {
-  //console.log(props);helloccdc
+  //console.log(props);helloccdcvv
 
   return (
     <View>
