@@ -3,6 +3,7 @@ import { Text, StyleSheet,View, Button, TouchableOpacity} from "react-native";
 
 const HomeScreen = ({navigation}) => {
   //console.log(props);hellocc
+  //ssafaf
 
   return (
     <View>
